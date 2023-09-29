@@ -1,8 +1,7 @@
 <h1 align="center">QonFusion-Quantum Approaches to Gaussian Random Variables: Applications in Stable Diffusion and Brownian Motion.</h1>
 
 <h1 align="center">
-  <img src="https://github.com/BoltzmannEntropy/QonFusion/blob/master/static/gauss_fig_qubits_6_rotFalse.png?raw=true" width="90%"></a>
-  
+  <img src="https://github.com/BoltzmannEntropy/QonFusion/blob/157ecb6487d91a658ca2afd1b7972ffcbbd5156a/static/gauss_fig_qubits_6_rotFalse.png?raw=true" width="90%"></a> 
 </h1>
 
 <p align="center">
@@ -28,6 +27,11 @@ python3 004_qonfusion_gaussian.py
 ```
 
 ## Citation
+
+<h1 align="center">
+  <img src="https://github.com/BoltzmannEntropy/QonFusion/blob/157ecb6487d91a658ca2afd1b7972ffcbbd5156a/static/arch.png?raw=true" width="100%"></a> 
+</h1>
+
 
 https://arxiv.org/abs/2309.16258
 
