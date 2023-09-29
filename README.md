@@ -15,6 +15,10 @@ Code for our paper: https://arxiv.org/abs/2309.16258
 
 Animations are available here: boltzmannentropy.github.io/qonfusion.github.io/
 
+<h1 align="center">
+  <img src="https://github.com/BoltzmannEntropy/QonFusion/blob/157ecb6487d91a658ca2afd1b7972ffcbbd5156a/static/arch.png?raw=true" width="100%"></a> 
+</h1>
+
 ## Reproducing our results 
 ```python
 #!/bin/sh
@@ -27,11 +31,6 @@ python3 004_qonfusion_gaussian.py
 ```
 
 ## Citation
-
-<h1 align="center">
-  <img src="https://github.com/BoltzmannEntropy/QonFusion/blob/157ecb6487d91a658ca2afd1b7972ffcbbd5156a/static/arch.png?raw=true" width="100%"></a> 
-</h1>
-
 
 https://arxiv.org/abs/2309.16258
 
