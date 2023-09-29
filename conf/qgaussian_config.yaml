@@ -1,0 +1,22 @@
+# config.yaml
+num_workers: 8
+log_dir: 'logs'
+paper:
+  dir: '../figs/random_gaussian'
+
+model:
+  "img_w": 32
+  "img_h": 32
+  "rgb_c": 1
+  "n_qubits": 4
+  "batch_size": 128
+  "singlExp_val_global": False
+  "sample_shots": 5
+  "NUMSHOTS": 5
+  "samples": 5000
+training:
+  "batch_size": 128
+hydra:
+  run:
+    dir: 'logs'
+#version_base=null

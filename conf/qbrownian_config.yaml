@@ -1,0 +1,18 @@
+# config.yaml
+num_workers: 8
+log_dir: 'logs'
+paper:
+  dir: '../figs/random_brownian'
+
+model:
+  patch_size: 4
+  "img_w": 32
+  "rgb_c": 1
+  "n_qubits": 4
+  "singlExp_val_global": False
+  "sample_shots": 3
+  "samples": 2000
+hydra:
+  run:
+    dir: 'logs'
+#version_base=null
