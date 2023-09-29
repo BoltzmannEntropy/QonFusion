@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#examples">Examples</a> •
-  <a href="#author">Author</a> •
+  <a href="#About">About</a> •
+  <a href="#Citation">Reproducing our results</a> •
+  <a href="#Citation">Citation</a> •
 </p>
 
 ## About 
@@ -15,7 +15,7 @@ Code for our paper: https://arxiv.org/abs/2309.16258
 
 Animations are available here: boltzmannentropy.github.io/qonfusion.github.io/
 
-## Reproducing our tesults 
+## Reproducing our results 
 ```python
 #!/bin/sh
 python3 001_qonfusion_random_rotations.py
