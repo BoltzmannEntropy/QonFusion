@@ -19,6 +19,9 @@ Animations are available here: boltzmannentropy.github.io/qonfusion.github.io/
   <img src="https://github.com/BoltzmannEntropy/QonFusion/blob/157ecb6487d91a658ca2afd1b7972ffcbbd5156a/static/arch.png?raw=true" width="100%"></a> 
 </h1>
 
+## The intersting code ... 
+https://github.com/BoltzmannEntropy/QonFusion/blob/main/q/model.py
+
 ## Reproducing our results 
 ```python
 #!/bin/sh
